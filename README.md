@@ -21,11 +21,11 @@ Term: Fall 2021
 + Team #3
 + **Exploring the Effect of Covid-19 on New York City Through Homelessness, High Schools, and Store Openings**: + Team members
 	+ Corwin Cheung
-	+ Roupu Ran
+	+ Ruopu Fan
 	+ Spark Li
 	+ Orianne Luo
 
-+ **Project summary**: This project aims to illustrate how Covid-19 has affected the day to day lives of New York City Residents through 3 interactive geographic plots of homeless populations, high school ... Roupu, Orianne, can you guys write the rest of this?
++ **Project summary**: This project aims to illustrate how Covid-19 has affected the day to day lives of New York City Residents through interactive geographic plots of homeless populations, high school, and open businesses in New York City. We start by introducing the general effects of Covid-19 on the lives of the residents by looking at infection rates, hospitalization rates, and death rates over time. By comparing these statistics with the reported number of homeless families and individuals, as well as the number of open businesses over time, the goal of the project is to provide users with valuable insight on how Covid-19 has impacted all aspects of the life of New York City residents. 
 The data was taken from NYC Open Data, found by sorting by agencies.
 
 + **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
