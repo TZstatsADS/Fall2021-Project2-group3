@@ -15,11 +15,11 @@ The **learning goals** for this project is:
 - shiny app/shiny server
 
 
-## Exploring the Effect of Covid-19 on New York City Through Homelessness, High Schools, and Store Openings
+## Exploring the Effect of Covid-19 on New York City Through Homelessness, Case Counts, and Store Openings
 Term: Fall 2021
 
 + Team #3
-+ **Exploring the Effect of Covid-19 on New York City Through Homelessness, High Schools, and Store Openings**: + Team members
++ **Exploring the Effect of Covid-19 on New York City Through Homelessness, Case Counts, and Store Openings**: + Team members
 	+ Corwin Cheung
 	+ Ruopu Fan
 	+ Spark Li
